@@ -1,0 +1,6 @@
+git remote add origin git@github.com:SriSatyaLokesh/Blogging-data-analysis.git
+git push -u origin master
+
+
+
+pip install cryptg
